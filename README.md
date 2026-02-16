@@ -19,9 +19,9 @@ _These badges are made using Paint. Feel free to use them_
 
 <hr>
 
-<!-- ![Stats](./profile/stats.svg)-->
+![Stats](./profile/stats.svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ReactorFailure&show_icons=true&theme=midnight-purple&border_color=39d4d6" />
-</a>
+</a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+drank+motor+oil" alt="Typing SVG" /></a>
