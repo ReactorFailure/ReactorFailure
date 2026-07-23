@@ -15,7 +15,7 @@
 ## Tools I'm familiar with:
 <img height=21px src="assets/icon/badge_nodejs.png"> <img height=21px src="assets/icon/badge_git.png"> <!--<img height=21px src="assets/icon/badge_prisma.png">-->
 
-_These badges are made using Paint. Feel free to use them_
+_These badges are made using Microsoft Paint. Feel free to use them_
 
 <hr>
 
